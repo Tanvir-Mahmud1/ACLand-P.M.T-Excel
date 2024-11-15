@@ -1,6 +1,7 @@
 # Performance Management Tool in Excel
 
-Performance Management Tool in Excel
+Performance Management Tool in Excel.
+
 Shows office workers monthly performance in Chart.
 
 Password: t123
