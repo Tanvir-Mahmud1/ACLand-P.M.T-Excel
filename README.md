@@ -1,6 +1,6 @@
-# Excel_Dashboard
+# Performance Management Tool in Excel
 
-Shows office workers monthly performance in Chart
+Shows office workers monthly performance in Chart.
 
 Password: t123
 
